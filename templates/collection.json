@@ -1,0 +1,40 @@
+{
+  "sections": {
+    "main": {
+      "type": "collection-template",
+      "blocks": {
+        "6ce7a442-6eae-42a0-93ec-14fe2c652e2d": {
+          "type": "filter",
+          "settings": {
+            "filter_name": "Filter",
+            "filter_tags": "New, CBD, THC, Oil, Tea, Softgels, Calm Balms, Skin Balms, Merchandise",
+            "enable_filter_swatches": false
+          }
+        },
+        "49388e36-637d-4b0a-8ba5-81f2cc42b0a9": {
+          "type": "filter_by_collection",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "6ce7a442-6eae-42a0-93ec-14fe2c652e2d",
+        "49388e36-637d-4b0a-8ba5-81f2cc42b0a9"
+      ],
+      "settings": {
+        "featured_collection_image": false,
+        "wide_display": true,
+        "caption_content_background": "original",
+        "display_collection_title": true,
+        "collection_breadcrumb": false,
+        "collection_tags": false,
+        "collection_sort": false,
+        "products_per_row": 2,
+        "pagination_limit": 48,
+        "toggle": false
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

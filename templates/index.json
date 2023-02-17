@@ -1,0 +1,312 @@
+{
+  "sections": {
+    "1631130118b92fb6e6": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "wide_display": true,
+        "image": "shopify://shop_images/banner-final.jpg",
+        "pretext": "",
+        "title": "Discover Your Bliss",
+        "subtitle": "<p>Our herbal CBD blends are packed with stress-relieving ingredients.</p>",
+        "button1": "Shop Edibles",
+        "button1_link": "shopify://collections/tea",
+        "button1_style": "global-button--banner-highlighted",
+        "button2": "Shop Balms",
+        "button2_link": "shopify://collections/calm-balms",
+        "button2_style": "global-button--banner-highlighted",
+        "text_position": "left",
+        "text_align": "left",
+        "caption_content_background": "original",
+        "mobile_image": "shopify://shop_images/banner-mobile-final.jpg",
+        "mobile_text_below_image": false,
+        "mobile_text_color": "#3349b5",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1631130775bb487ede": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 25,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1631130778d8cbd55f": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection_description": true,
+        "collection": "new",
+        "collection_style": "grid",
+        "products_per": 3,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "163113082664c65266": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 20,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "163113082924a1a843": {
+      "type": "featured-promotions",
+      "blocks": {
+        "163113082924a1a843-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/pexels-anna-shvets-3683036_7554e978-40d8-42b8-a9f5-f54ab60ae7d5.jpg",
+            "link": "shopify://collections/capsules",
+            "title": "CBD Tablets",
+            "text": "<p>Accurate dosage, easily digestible, and relaxing. </p>",
+            "button_label": ""
+          }
+        },
+        "163113082924a1a843-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/pexels-shiny-diamond-3762870_1f32114c-75cd-4ccf-9d0a-3923477f2277.jpg",
+            "link": "shopify://collections/calm-balms",
+            "title": "Calm Balms",
+            "text": "<p>Quickly nourish and relieve your irritated skin.</p>",
+            "button_label": ""
+          }
+        }
+      },
+      "block_order": [
+        "163113082924a1a843-0",
+        "163113082924a1a843-1"
+      ],
+      "settings": {
+        "wide_display": true,
+        "promo_text_on_image_enabled": true,
+        "featured_promos_per_row": 2,
+        "featured_links_animation": "fadeInDown",
+        "feature_style": "square",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1631130851a9c63e2b": {
+      "type": "image-text",
+      "blocks": {
+        "1631130851a9c63e2b-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/collection-cbd-group.jpg",
+            "title": "Quality Cannabinoid for Everyday Relaxation",
+            "text": "<p>Look no further because we only believe in the good stuff.</p>",
+            "button_label": "Shop All CBD",
+            "link": "shopify://collections/cbd",
+            "bg_color": "",
+            "text_color": "#3349b5"
+          }
+        },
+        "1631130851a9c63e2b-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/collection-cover-indica.jpg",
+            "title": "Did you know not all CBD is created equal?",
+            "text": "<p>Isolate vs. full-spectrum. Discover what's optimal for you!</p>",
+            "button_label": "Shop CBD Teas",
+            "link": "shopify://collections/tea",
+            "bg_color": "",
+            "text_color": "#3349b5"
+          }
+        }
+      },
+      "block_order": [
+        "1631130851a9c63e2b-0",
+        "1631130851a9c63e2b-1"
+      ],
+      "settings": {
+        "wide_display": false,
+        "featured_links_per_row": "1",
+        "frontpage_text_align": "left",
+        "frontpage_image_position": "row-reverse",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16579127571772ac3c": {
+      "type": "shoppable-image",
+      "settings": {
+        "wide_display": true,
+        "slideshow_text_animation": "fadeInDown",
+        "slideshow_animation": "fade",
+        "slideshow_speed": 0,
+        "title": "",
+        "quick_view": false,
+        "bottom_bar": true,
+        "product_thumbnails": false,
+        "cta": true,
+        "bottom_bar_image_style": "natural",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16311311648b516a1c": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 25,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "163113119437d6c16d": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "163113119437d6c16d-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/banner-2.jpg",
+            "title": "CBD Beverages",
+            "heading_size": "regular_text",
+            "text": "<p>Infusing CBD in delicious beverages is truly the way to go! You can cool down with a nice drink while going into full relaxation mode.</p>",
+            "button_label": "Read more",
+            "button_link": "shopify://blogs/higher-education/cbd-infused-beverages",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        },
+        "163113119437d6c16d-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/pexels-anna-shvets-4587979_6232050f-5927-4ad5-b3f6-419efe27acbd.jpg",
+            "title": "Is CBD Safe for Pets?",
+            "heading_size": "regular_text",
+            "text": "<p>Our company always recommends talking to your veterinarian before prescribing your pets a new medicine. We want our pets to be safe!</p>",
+            "button_label": "Read more",
+            "button_link": "shopify://blogs/higher-education/is-cbd-safe-for-your-pets",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        },
+        "59e33a40-4905-46f5-ab04-cf6961ef3d17": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/pexels-cottonbro-4972598.jpg",
+            "title": "Change Your Mood",
+            "heading_size": "regular_text",
+            "text": "<p>It's no secret that CBD has been a major game changer for those with anxiety. In this article, we dive into what CBD can do for you!</p>",
+            "button_label": "Read more",
+            "button_link": "shopify://blogs/higher-education/how-cbd-impacts-my-mood",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        }
+      },
+      "block_order": [
+        "163113119437d6c16d-0",
+        "163113119437d6c16d-1",
+        "59e33a40-4905-46f5-ab04-cf6961ef3d17"
+      ],
+      "settings": {
+        "title": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "165791199480bafbbf": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 20,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "165791196955f16216": {
+      "type": "logo-bar",
+      "blocks": {
+        "165791196995d639fd-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/Bon_Appetit_logo.svg_3215cd43-4a9c-4c2e-8488-7fd75560576c.png",
+            "link": ""
+          }
+        },
+        "165791196995d639fd-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/271-2713242_apartment-therapy-logo-png-apartmenttherapy-jpg-apartment-therapy_d3b04623-9317-4b1c-a5d0-0446b2db13d9.png",
+            "link": ""
+          }
+        },
+        "165791196995d639fd-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/Gooponlinelogo.svg_506721c9-1022-4f03-b358-7f26daf51aa0.png",
+            "link": ""
+          }
+        },
+        "165791196995d639fd-3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/Refinery29_logo.svg_b3e6b420-e63f-4adc-8298-ee8691365ab0.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "165791196995d639fd-0",
+        "165791196995d639fd-1",
+        "165791196995d639fd-2",
+        "165791196995d639fd-3"
+      ],
+      "settings": {
+        "title": "",
+        "layout": "slider",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1657911985a591566e": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 20,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "newsletter-1": {
+      "type": "newsletter",
+      "settings": {
+        "wide_display": true,
+        "display_first_name": false,
+        "display_last_name": false,
+        "newsletter_title": "Get 15% off your first order!",
+        "newsletter_text": "",
+        "newsletter_section_text_align": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "1631130118b92fb6e6",
+    "1631130775bb487ede",
+    "1631130778d8cbd55f",
+    "163113082664c65266",
+    "163113082924a1a843",
+    "1631130851a9c63e2b",
+    "16579127571772ac3c",
+    "16311311648b516a1c",
+    "163113119437d6c16d",
+    "165791199480bafbbf",
+    "165791196955f16216",
+    "1657911985a591566e",
+    "newsletter-1"
+  ]
+}

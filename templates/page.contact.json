@@ -1,0 +1,25 @@
+{
+  "sections": {
+    "main": {
+      "type": "contact-template",
+      "settings": {
+        "wide_display": true,
+        "contact_heading": "Get in touch",
+        "contact_subheading": "",
+        "caption_content_background": "original",
+        "contact_text": "",
+        "show_map": true,
+        "map_wide_display": true,
+        "map_address": "Chicago",
+        "map_height": 400,
+        "zoom_level": 11,
+        "api_key": "",
+        "show_pin": true,
+        "map_style": "default"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

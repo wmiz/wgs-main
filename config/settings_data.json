@@ -1,0 +1,1901 @@
+{
+  "presets": {
+    "Day": {
+      "performance": "ludicrous",
+      "image_loading_style": "blur-up",
+      "custom_scripts": "",
+      "logo_color": "#f5b661",
+      "regular_color": "#727272",
+      "banner_color": "#ffffff",
+      "headline_color": "#f5b661",
+      "headline_footer_text_color": "#3349b5",
+      "sub_footer_text_color": "#ffffff",
+      "sale_color": "#ff3099",
+      "was_price_color": "#727272",
+      "product_hover_text_color": "#ffffff",
+      "promo_text_color": "#ffffff",
+      "shop_home_page_content_text_color": "#727272",
+      "newsletter_popup_color": "#3349b5",
+      "newsletter_section_color": "#727272",
+      "collection_filter_color": "#3349b5",
+      "top_bar_color": "#3349b5",
+      "top_bar_color_hover": "#3349b5",
+      "nav_color": "#3349b5",
+      "nav_color_home": "#3349b5",
+      "nav_color_hover": "#3349b5",
+      "link_color": "#3349b5",
+      "link_hover_color": "#3349b5",
+      "sidebar_nav_color": "#3349b5",
+      "sidebar_nav_color_hover": "#3349b5",
+      "sub_footer_link_color": "#ffffff",
+      "sub_footer_link_color_hover": "#3349b5",
+      "btn_color": "#fcc57c",
+      "banner_button_color": "#3349b5",
+      "btn_hover_color": "#3349b5",
+      "btn_text_color": "#ffffff",
+      "button_style": "square",
+      "read_more_style": "link",
+      "swatch_style": "rounded",
+      "table_styles_enabled": true,
+      "slideshow_arrow_size": "bold",
+      "arrow_color": "#e0e0e0",
+      "slideshow_button_style": false,
+      "slideshow_nav_buttons": true,
+      "border_color": "#fcc57c",
+      "headline_border_color": "#3349b5",
+      "headline_border": "4",
+      "divider_style": "dashed",
+      "sub_footer_border_color": "#ffffff",
+      "banner_style": "square",
+      "sale_banner_color": "#ff3099",
+      "new_banner_color": "#3349b5",
+      "search_section_color": "#3349b5",
+      "search_section_bg_color": "#fff1df",
+      "testimonial_color": "#ffffff",
+      "testimonial_bg_color": "#77c6d8",
+      "featured_promotions_color": "#fff",
+      "featured_promotions_color_hover": "#fff",
+      "featured_promotions_background": "#77c6d8",
+      "featured_promotions_mobile_background": true,
+      "modal_background_color": "#ffffff",
+      "modal_text_color": "#3349b5",
+      "shop_bg_color": "#ffffff",
+      "custom_bg": "",
+      "repeat_bg": "no-repeat",
+      "bg_fixed": false,
+      "bg_stretched": false,
+      "top_bar_bg_color": "#ffffff",
+      "top_bar_cart_bg_color": "#ffffff",
+      "minicart_bg_color": "#fff7ed",
+      "banner_placeholder_background_color": "#ffffff",
+      "banner_background_color": "#fadab0",
+      "header_bg_color": "#ffffff",
+      "header_background": true,
+      "transparent_header": false,
+      "promo_bg_color": "#3349b5",
+      "shop_home_page_content_bg_color": "#f9d5a5",
+      "featured_links_background": "#ffffff",
+      "product_hover_bg_color": "#77c6d8",
+      "sub_footer_color": "#ee8e8e",
+      "footer_bg": "",
+      "footer_bg_stretched": false,
+      "newsletter_popup_background_color": "#ffffff",
+      "newsletter_section_background_color": "#fff1df",
+      "password_page_text_color": "#ffffff",
+      "password_page_background_color": "#77c6d8",
+      "logo__font": "harmonia_sans_n9",
+      "logo_font_style": "uppercase",
+      "logo_font_size": 20,
+      "top_bar_font_size": 12,
+      "top_bar_letter_spacing": 1,
+      "nav__font": "work_sans_n5",
+      "nav_font_style": "none",
+      "nav_font_size": 18,
+      "nav_letter_spacing": 1,
+      "nav_shadow": false,
+      "button_weight": "bold",
+      "button_font_style": "none",
+      "button_font_size": 16,
+      "mega_text_font_size": 14,
+      "mega_text_letter_spacing": 1,
+      "headline__font": "harmonia_sans_n9",
+      "headline_font_style": "none",
+      "headline_font_size": 44,
+      "headline_letter_spacing": 1,
+      "slideshow_headline__font": "harmonia_sans_n9",
+      "slideshow_headline_font_style": "none",
+      "slideshow_headline_size": 60,
+      "slideshow_headline_letter_spacing": 1,
+      "slideshow_headline_shadow": false,
+      "slideshow_subtitle__font": "work_sans_n4",
+      "slideshow_subtitle_font_style": "none",
+      "slideshow_subtitle_size": 16,
+      "slideshow_subtitle_letter_spacing": 1,
+      "slideshow_shadow": false,
+      "regular__font": "work_sans_n4",
+      "regular_font_style": "none",
+      "regular_font_size": 18,
+      "footer_logo_font_size": 20,
+      "footer_heading_font_size": 16,
+      "footer_font_size": 16,
+      "mega_menu_1": true,
+      "mega_menu_2": false,
+      "mega_menu_3": false,
+      "mega_menu_4": false,
+      "mega_menu_5": false,
+      "search_option": "products",
+      "search_pagination_type": "basic_pagination",
+      "enable_autocomplete": true,
+      "search_to_display": 10,
+      "thumbnail_hover_enabled": false,
+      "display_vendor": false,
+      "collection_secondary_image": false,
+      "sale_banner_enabled": true,
+      "collection_swatches": false,
+      "mobile_products_per_row": "1",
+      "pagination_type": "basic_pagination",
+      "align_height": false,
+      "collection_height": 200,
+      "notify_me_form": true,
+      "notify_me_richtext": "<p>Notify me when this product is available:</p>",
+      "product_form_style": "swatches",
+      "display_product_quantity": false,
+      "limit_quantity": false,
+      "display_inventory_left": false,
+      "inventory_threshold": 10,
+      "display_price": false,
+      "sold_out_text": "Sold out",
+      "free_price_text": "Free",
+      "size_chart": "",
+      "enable_shopify_review_comments": true,
+      "enable_shopify_collection_badges": true,
+      "quick_shop_enabled": true,
+      "quick_shop_style": "inline",
+      "show_payment_button": true,
+      "quick_shop_display_vendor": false,
+      "quick_shop_display_savings": true,
+      "quick_shop_zoom": true,
+      "quick_shop_full_description": false,
+      "description_words": 25,
+      "quick_shop_product_description_position": "top",
+      "quick_shop_gallery_arrows": true,
+      "quick_shop_slideshow_animation": "slide",
+      "quick_shop_product_images_position": "left",
+      "quick_shop_product_thumbs": true,
+      "quick_shop_thumbnail_position": "bottom-thumbnails",
+      "cart_action": "ajax",
+      "show_lock_icon": true,
+      "display_tos_checkbox": true,
+      "tos_page": "",
+      "go_to_checkout": true,
+      "display_special_instructions": false,
+      "display_savings": true,
+      "cart_message": "",
+      "show_shipping_calculator": true,
+      "shipping_calculator_default_country": "United States",
+      "show_multiple_currencies": true,
+      "currency_format": "money_format",
+      "supported_currencies": "USD CAD AUD GBP EUR JPY",
+      "default_currency": "CAD",
+      "mailchimp_link": "",
+      "secondary_newsletter_banner": true,
+      "newsletter_popup": false,
+      "newsletter_popup_close": false,
+      "newsletter_popup_mobile": false,
+      "newsletter_popup_form": false,
+      "display_first_name": false,
+      "display_last_name": false,
+      "use_newsletter_border": false,
+      "newsletter_bg": "",
+      "newsletter_popup_image_align": "left",
+      "newsletter_popup_title": "Age verification",
+      "newsletter_popup_text": "<p>You can use this popup as an age gate, to control access to content.<br> <strong><a href=\"https://help.outofthesandbox.com/hc/en-us/articles/115014370088\" title=\"https://help.outofthesandbox.com/hc/en-us/articles/115014370088\">More details</a></strong></p>",
+      "newsletter_popup_text_align": "center",
+      "popup_button1": "Under 21",
+      "popup_button1_link": "",
+      "popup_button1_highlight": false,
+      "popup_button2": "21+ (Enter)",
+      "popup_button2_link": "",
+      "popup_button2_highlight": true,
+      "newsletter_popup_seconds": 4,
+      "newsletter_popup_days": "0",
+      "og_image_fallback": "shopify://shop_images/chicago-day-social-share-image.jpg",
+      "favicon": "",
+      "disqus_enabled": false,
+      "disqus_shortname": "",
+      "checkout_header_image": "shopify://shop_images/banner-faq.jpg",
+      "checkout_logo_image": "shopify://shop_images/chicago-logo-2020_white.png",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_image": "",
+      "checkout_body_background_color": "#fff1df",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_image": "",
+      "checkout_sidebar_background_color": "#ffffff",
+      "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_accent_color": "#3349b5",
+      "checkout_button_color": "#3349b5",
+      "checkout_error_color": "#e32c2b"
+    },
+    "Night": {
+      "performance": "ludicrous",
+      "image_loading_style": "blur-up",
+      "custom_scripts": "",
+      "logo_color": "#ffffff",
+      "regular_color": "#f8f8f8",
+      "banner_color": "#ffffff",
+      "headline_color": "#8f98a6",
+      "headline_footer_text_color": "#ffffff",
+      "sub_footer_text_color": "#6b6b6b",
+      "sale_color": "#be3469",
+      "was_price_color": "#e7e8e9",
+      "product_hover_text_color": "#ffffff",
+      "promo_text_color": "#000000",
+      "shop_home_page_content_text_color": "#f8f8f8",
+      "newsletter_popup_color": "#fcac79",
+      "newsletter_section_color": "#f8f8f8",
+      "collection_filter_color": "#fcac79",
+      "top_bar_color": "#ffffff",
+      "top_bar_color_hover": "#fcac79",
+      "nav_color": "#d9d9d9",
+      "nav_color_home": "#d9d9d9",
+      "nav_color_hover": "#fcac79",
+      "link_color": "#8f98a6",
+      "link_hover_color": "#ed7529",
+      "sidebar_nav_color": "#ffffff",
+      "sidebar_nav_color_hover": "#fcac79",
+      "sub_footer_link_color": "#797d83",
+      "sub_footer_link_color_hover": "#ed7529",
+      "btn_color": "#fcac79",
+      "banner_button_color": "#fcac79",
+      "btn_hover_color": "#ed7529",
+      "btn_text_color": "#1f2233",
+      "button_style": "square",
+      "read_more_style": "link",
+      "swatch_style": "rounded",
+      "table_styles_enabled": true,
+      "slideshow_arrow_size": "bold",
+      "arrow_color": "#333333",
+      "slideshow_button_style": false,
+      "slideshow_nav_buttons": true,
+      "border_color": "#49515e",
+      "headline_border_color": "#49515e",
+      "headline_border": "4",
+      "divider_style": "dashed",
+      "sub_footer_border_color": "rgba(0,0,0,0)",
+      "banner_style": "square",
+      "sale_banner_color": "#be3469",
+      "new_banner_color": "#49515e",
+      "search_section_color": "#ffffff",
+      "search_section_bg_color": "#797d83",
+      "testimonial_color": "#ffffff",
+      "testimonial_bg_color": "#797d83",
+      "featured_promotions_color": "#ffffff",
+      "featured_promotions_color_hover": "#ffffff",
+      "featured_promotions_background": "#000000",
+      "featured_promotions_mobile_background": true,
+      "modal_background_color": "#1f2233",
+      "modal_text_color": "#ffffff",
+      "shop_bg_color": "#1f2233",
+      "custom_bg": "",
+      "repeat_bg": "repeat",
+      "bg_fixed": false,
+      "bg_stretched": false,
+      "top_bar_bg_color": "#1f2233",
+      "top_bar_cart_bg_color": "#1f2233",
+      "minicart_bg_color": "#49515e",
+      "banner_placeholder_background_color": "#666666",
+      "banner_background_color": "#1f2233",
+      "header_bg_color": "#1f2233",
+      "header_background": true,
+      "transparent_header": false,
+      "promo_bg_color": "#fcac79",
+      "shop_home_page_content_bg_color": "#12151f",
+      "featured_links_background": "#1f2233",
+      "product_hover_bg_color": "#1f2233",
+      "sub_footer_color": "#12151f",
+      "footer_bg": "",
+      "footer_bg_stretched": false,
+      "newsletter_popup_background_color": "#1f2233",
+      "newsletter_section_background_color": "#242d3c",
+      "password_page_text_color": "#ffffff",
+      "password_page_background_color": "#000000",
+      "logo__font": "harmonia_sans_n9",
+      "logo_font_style": "none",
+      "logo_font_size": 19,
+      "top_bar_font_size": 12,
+      "top_bar_letter_spacing": 1,
+      "nav__font": "work_sans_n5",
+      "nav_font_style": "none",
+      "nav_font_size": 18,
+      "nav_letter_spacing": 1,
+      "nav_shadow": false,
+      "button_weight": "bold",
+      "button_font_style": "none",
+      "button_font_size": 16,
+      "mega_text_font_size": 14,
+      "mega_text_letter_spacing": 1,
+      "headline__font": "harmonia_sans_n9",
+      "headline_font_style": "none",
+      "headline_font_size": 44,
+      "headline_letter_spacing": 1,
+      "slideshow_headline__font": "harmonia_sans_n9",
+      "slideshow_headline_font_style": "none",
+      "slideshow_headline_size": 60,
+      "slideshow_headline_letter_spacing": 1,
+      "slideshow_headline_shadow": false,
+      "slideshow_subtitle__font": "work_sans_n4",
+      "slideshow_subtitle_font_style": "none",
+      "slideshow_subtitle_size": 16,
+      "slideshow_subtitle_letter_spacing": 1,
+      "slideshow_shadow": false,
+      "regular__font": "work_sans_n4",
+      "regular_font_style": "none",
+      "regular_font_size": 18,
+      "footer_logo_font_size": 20,
+      "footer_heading_font_size": 16,
+      "footer_font_size": 16,
+      "mega_menu_1": true,
+      "mega_menu_2": false,
+      "mega_menu_3": false,
+      "mega_menu_4": false,
+      "mega_menu_5": false,
+      "search_option": "products",
+      "search_pagination_type": "basic_pagination",
+      "enable_autocomplete": true,
+      "search_to_display": 5,
+      "thumbnail_hover_enabled": false,
+      "display_vendor": false,
+      "collection_secondary_image": false,
+      "sale_banner_enabled": true,
+      "collection_swatches": false,
+      "mobile_products_per_row": "1",
+      "pagination_type": "basic_pagination",
+      "align_height": false,
+      "collection_height": 200,
+      "notify_me_form": true,
+      "notify_me_richtext": "<p>Notify me when this product is available:</p>",
+      "product_form_style": "swatches",
+      "display_product_quantity": false,
+      "limit_quantity": false,
+      "display_inventory_left": false,
+      "inventory_threshold": 10,
+      "display_price": false,
+      "sold_out_text": "Sold out",
+      "free_price_text": "Free",
+      "size_chart": "",
+      "enable_shopify_review_comments": true,
+      "enable_shopify_collection_badges": true,
+      "quick_shop_enabled": true,
+      "quick_shop_style": "inline",
+      "show_payment_button": true,
+      "quick_shop_display_vendor": false,
+      "quick_shop_display_savings": true,
+      "quick_shop_zoom": false,
+      "quick_shop_full_description": false,
+      "description_words": 25,
+      "quick_shop_product_description_position": "top",
+      "quick_shop_gallery_arrows": true,
+      "quick_shop_slideshow_animation": "slide",
+      "quick_shop_product_images_position": "left",
+      "quick_shop_product_thumbs": true,
+      "quick_shop_thumbnail_position": "bottom-thumbnails",
+      "cart_action": "ajax",
+      "show_lock_icon": true,
+      "display_tos_checkbox": false,
+      "tos_page": "",
+      "go_to_checkout": true,
+      "display_special_instructions": false,
+      "display_savings": false,
+      "cart_message": "",
+      "show_shipping_calculator": true,
+      "shipping_calculator_default_country": "United States",
+      "show_multiple_currencies": true,
+      "currency_format": "money_format",
+      "supported_currencies": "USD CAD AUD GBP EUR JPY",
+      "default_currency": "CAD",
+      "mailchimp_link": "",
+      "secondary_newsletter_banner": true,
+      "newsletter_popup": false,
+      "newsletter_popup_close": false,
+      "newsletter_popup_mobile": false,
+      "newsletter_popup_form": false,
+      "display_first_name": false,
+      "display_last_name": false,
+      "use_newsletter_border": true,
+      "newsletter_bg": "shopify://shop_images/nl-popup.jpg",
+      "newsletter_popup_image_align": "left",
+      "newsletter_popup_title": "Age Verification",
+      "newsletter_popup_text": "<p>You can use this popup as an age gate, to control access to content.&nbsp;</p>",
+      "newsletter_popup_text_align": "left",
+      "popup_button1": "Under 21",
+      "popup_button1_link": "",
+      "popup_button1_highlight": false,
+      "popup_button2": "21+ (Enter)",
+      "popup_button2_link": "",
+      "popup_button2_highlight": true,
+      "newsletter_popup_seconds": 12,
+      "newsletter_popup_days": "2",
+      "og_image_fallback": "shopify://shop_images/chicago-night-social-share-image.jpg",
+      "favicon": "",
+      "disqus_enabled": false,
+      "disqus_shortname": "",
+      "checkout_header_image": "shopify://shop_images/hands-video.jpg",
+      "checkout_logo_image": "shopify://shop_images/chicago-logo-wt-peach-2.png",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_image": "",
+      "checkout_body_background_color": "#49515e",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_image": "",
+      "checkout_sidebar_background_color": "#202835",
+      "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_accent_color": "#fcac79",
+      "checkout_button_color": "#fcac79",
+      "checkout_error_color": "#e32c2b"
+    }
+  },
+  "current": {
+    "performance": "ludicrous",
+    "image_loading_style": "blur-up",
+    "custom_scripts": "",
+    "logo_color": "#f5b661",
+    "regular_color": "#727272",
+    "headline_color": "#f5b661",
+    "headline_footer_text_color": "#727272",
+    "sub_footer_text_color": "#727272",
+    "sale_color": "#ac71fa",
+    "was_price_color": "#727272",
+    "product_hover_text_color": "#ffffff",
+    "promo_text_color": "#ffffff",
+    "shop_home_page_content_text_color": "#727272",
+    "newsletter_popup_color": "#3349b5",
+    "newsletter_section_color": "#727272",
+    "collection_filter_color": "#3349b5",
+    "top_bar_color": "#3349b5",
+    "top_bar_color_hover": "#3349b5",
+    "nav_color": "#3349b5",
+    "nav_color_home": "#3349b5",
+    "nav_color_hover": "#3349b5",
+    "link_color": "#3349b5",
+    "link_hover_color": "#3349b5",
+    "sidebar_nav_color": "#3349b5",
+    "sidebar_nav_color_hover": "#3349b5",
+    "sub_footer_link_color": "#727272",
+    "sub_footer_link_color_hover": "#3349b5",
+    "btn_color": "#f5b661",
+    "btn_hover_color": "#3349b5",
+    "btn_text_color": "#ffffff",
+    "button_style": "square",
+    "read_more_style": "link",
+    "banner_button_color": "#3349b5",
+    "banner_color": "#ffffff",
+    "banner_background_color": "#fadab0",
+    "banner_placeholder_background_color": "#ffffff",
+    "swatch_style": "rounded",
+    "table_styles_enabled": true,
+    "slideshow_arrow_size": "bold",
+    "arrow_color": "#e0e0e0",
+    "slideshow_button_style": false,
+    "slideshow_nav_buttons": true,
+    "border_color": "#fcc57c",
+    "headline_border_color": "#3349b5",
+    "headline_border": "0",
+    "divider_style": "dashed",
+    "sub_footer_border_color": "#ffffff",
+    "sale_banner_color": "#ac71fa",
+    "new_banner_color": "#3349b5",
+    "search_section_color": "#3349b5",
+    "search_section_bg_color": "#fff1df",
+    "testimonial_color": "#ffffff",
+    "testimonial_bg_color": "#77c6d8",
+    "featured_promotions_color": "#fff",
+    "featured_promotions_color_hover": "#fff",
+    "featured_promotions_background": "#77c6d8",
+    "featured_promotions_mobile_background": true,
+    "modal_background_color": "#ffffff",
+    "modal_text_color": "#3349b5",
+    "shop_bg_color": "#ffffff",
+    "custom_bg": "",
+    "repeat_bg": "no-repeat",
+    "bg_fixed": false,
+    "bg_stretched": false,
+    "top_bar_bg_color": "#ffffff",
+    "top_bar_cart_bg_color": "#ffffff",
+    "minicart_bg_color": "#fff7ed",
+    "header_bg_color": "#ffffff",
+    "header_background": true,
+    "transparent_header": false,
+    "promo_bg_color": "#3349b5",
+    "shop_home_page_content_bg_color": "#f9d5a5",
+    "featured_links_background": "#ffffff",
+    "product_hover_bg_color": "#77c6d8",
+    "sub_footer_color": "#fff1df",
+    "footer_bg": "",
+    "footer_bg_stretched": false,
+    "newsletter_popup_background_color": "#ffffff",
+    "newsletter_section_background_color": "#fff1df",
+    "password_page_text_color": "#ffffff",
+    "password_page_background_color": "#77c6d8",
+    "logo__font": "work_sans_n4",
+    "logo_font_style": "uppercase",
+    "logo_font_size": 20,
+    "top_bar_font_size": 13,
+    "top_bar_letter_spacing": 1,
+    "nav__font": "avenir_next_n4",
+    "nav_font_style": "none",
+    "nav_font_size": 18,
+    "nav_letter_spacing": 0,
+    "nav_shadow": false,
+    "button_weight": "bold",
+    "button_font_style": "none",
+    "button_font_size": 16,
+    "mega_text_font_size": 14,
+    "mega_text_letter_spacing": 1,
+    "headline__font": "work_sans_n7",
+    "headline_font_style": "none",
+    "headline_font_size": 44,
+    "headline_letter_spacing": 0,
+    "slideshow_headline__font": "work_sans_n7",
+    "slideshow_headline_font_style": "none",
+    "slideshow_headline_size": 60,
+    "slideshow_headline_letter_spacing": 0,
+    "slideshow_headline_shadow": false,
+    "slideshow_subtitle__font": "avenir_next_n4",
+    "slideshow_subtitle_font_style": "none",
+    "slideshow_subtitle_size": 19,
+    "slideshow_subtitle_letter_spacing": 1,
+    "slideshow_shadow": false,
+    "regular__font": "avenir_next_n4",
+    "regular_font_style": "none",
+    "regular_font_size": 18,
+    "footer_logo_font_size": 20,
+    "footer_heading_font_size": 16,
+    "footer_font_size": 16,
+    "mega_menu_1": true,
+    "mega_menu_2": false,
+    "mega_menu_3": false,
+    "mega_menu_4": false,
+    "mega_menu_5": false,
+    "search_option": "product",
+    "enable_autocomplete": true,
+    "search_to_display": 10,
+    "product_form_style": "swatches",
+    "display_product_quantity": false,
+    "limit_quantity": false,
+    "display_inventory_left": false,
+    "inventory_threshold": 10,
+    "notify_me_form": true,
+    "display_vendor": false,
+    "collection_swatches": false,
+    "sale_banner_enabled": false,
+    "thumbnail_hover_enabled": false,
+    "mobile_products_per_row": "1",
+    "display_price": false,
+    "free_price_text": "Free",
+    "pagination_type": "basic_pagination",
+    "collection_secondary_image": false,
+    "align_height": false,
+    "collection_height": 200,
+    "quick_shop_enabled": false,
+    "quick_shop_style": "inline",
+    "cart_action": "ajax",
+    "show_lock_icon": true,
+    "display_tos_checkbox": true,
+    "tos_page": "",
+    "go_to_checkout": true,
+    "display_special_instructions": false,
+    "display_savings": true,
+    "cart_message": "",
+    "show_shipping_calculator": true,
+    "shipping_calculator_default_country": "United States",
+    "currency_format": "money_format",
+    "show_multiple_currencies": true,
+    "supported_currencies": "USD CAD AUD GBP EUR JPY",
+    "default_currency": "CAD",
+    "mailchimp_link": "",
+    "newsletter_popup": false,
+    "newsletter_popup_close": false,
+    "newsletter_popup_mobile": false,
+    "newsletter_popup_form": false,
+    "display_first_name": false,
+    "display_last_name": false,
+    "use_newsletter_border": false,
+    "newsletter_bg": "",
+    "newsletter_popup_image_align": "left",
+    "newsletter_popup_title": "Age verification",
+    "newsletter_popup_text": "<p>You can use this popup as an age gate, to control access to content.<br> <strong><a href=\"https://help.outofthesandbox.com/hc/en-us/articles/115014370088\" title=\"https://help.outofthesandbox.com/hc/en-us/articles/115014370088\">More details</a></strong></p>",
+    "newsletter_popup_text_align": "center",
+    "popup_button1": "Under 21",
+    "popup_button1_link": "",
+    "popup_button1_highlight": false,
+    "popup_button2": "21+ (Enter)",
+    "popup_button2_link": "",
+    "popup_button2_highlight": true,
+    "newsletter_popup_seconds": 4,
+    "newsletter_popup_days": "0",
+    "favicon": "",
+    "disqus_enabled": false,
+    "disqus_shortname": "",
+    "checkout_header_image": "shopify://shop_images/banner-faq.jpg",
+    "checkout_logo_image": "shopify://shop_images/chicago-logo-2020_white.png",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#fff1df",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#ffffff",
+    "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_accent_color": "#3349b5",
+    "checkout_button_color": "#3349b5",
+    "checkout_error_color": "#e32c2b",
+    "notify_me_richtext": "<p>Notify me when this product is available:</p>",
+    "sold_out_text": "Sold out",
+    "search_pagination_type": "basic_pagination",
+    "enable_shopify_review_comments": false,
+    "enable_shopify_collection_badges": true,
+    "secondary_newsletter_banner": true,
+    "size_chart": "",
+    "product_thumbs": true,
+    "gallery_arrows": true,
+    "activate_zoom": false,
+    "slideshow_speed": 0,
+    "slideshow_animation": "slide",
+    "thumbnail_position": "bottom",
+    "enable_thumbnail_slider": true,
+    "quick_shop_display_vendor": false,
+    "quick_shop_full_description": false,
+    "description_words": 25,
+    "quick_shop_product_description_position": "top",
+    "quick_shop_display_savings": true,
+    "show_payment_button": true,
+    "product_images_position": "left",
+    "video_looping": false,
+    "banner_style": "square",
+    "og_image_fallback": "shopify://shop_images/chicago-day-social-share-image.jpg",
+    "quick_shop_zoom": true,
+    "quick_shop_gallery_arrows": true,
+    "quick_shop_slideshow_animation": "slide",
+    "quick_shop_product_images_position": "left",
+    "quick_shop_product_thumbs": true,
+    "quick_shop_thumbnail_position": "bottom-thumbnails",
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {
+          "promo_text": "<p>Now offering complimentary shipping on all orders over $50!</p>",
+          "social_icons_header": true,
+          "phone_number": "",
+          "top_bar_menu": "",
+          "show_cart": true,
+          "cart_icon": "bag",
+          "show_locale_selector": true,
+          "show_currency_selector": true,
+          "logo_display_width": 190,
+          "logo": "shopify://shop_images/chicago-day-colour-2.png",
+          "main_linklist": "main-menu",
+          "main_linklist2": "main-menu-2",
+          "vertical_menu": false,
+          "dropdown_click": false,
+          "search_enabled": false,
+          "fixed_header": true,
+          "logo_position": "center",
+          "logo_alignment": "center",
+          "menu_position": "inline",
+          "menu_alignment": "center"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "1580883670382": {
+            "type": "logo",
+            "settings": {
+              "image": "shopify://shop_images/chicago-day-colour-2_ee293620-d8a8-42ee-ae58-3b5491dc2500.png",
+              "text_align": "left",
+              "social_icons_footer": true
+            }
+          },
+          "1580883735959": {
+            "type": "empty",
+            "settings": {
+              "social_icons_footer": false
+            }
+          },
+          "1582224527679": {
+            "type": "link_list",
+            "settings": {
+              "menu": "community",
+              "social_icons_footer": false
+            }
+          },
+          "1582224537333": {
+            "type": "link_list",
+            "settings": {
+              "menu": "support",
+              "social_icons_footer": false
+            }
+          },
+          "1582155357519": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "content": "<p>This is a demo store for the <strong>Turbo Shopify theme</strong> by Out of the Sandbox. For information on selling CBD on Shopify, <a href=\"https://help.shopify.com/en/manual/products/cbd-products\" target=\"_blank\" title=\"https://help.shopify.com/en/manual/products/cbd-products\">check out this document</a>.</p>",
+              "social_icons_footer": false
+            }
+          }
+        },
+        "block_order": [
+          "1580883670382",
+          "1580883735959",
+          "1582224527679",
+          "1582224537333",
+          "1582155357519"
+        ],
+        "settings": {
+          "copyright_text": "",
+          "display_designed_by": true,
+          "display_payment_methods": true,
+          "show_locale_selector": false,
+          "show_currency_selector": false
+        }
+      },
+      "1489283389016": {
+        "type": "image-with-text-overlay",
+        "settings": {
+          "wide_display": true,
+          "image": "shopify://shop_images/banner-final.jpg",
+          "pretext": "",
+          "title": "Discover Your Bliss",
+          "subtitle": "<p>Our herbal CBD blends are packed with stress-relieving ingredients.</p>",
+          "button1": "Shop Edibles",
+          "button1_link": "shopify://collections/tea",
+          "button1_style": "global-button--banner-highlighted",
+          "button2": "Shop Balms",
+          "button2_link": "shopify://collections/calm-balms",
+          "button2_style": "global-button--banner-highlighted",
+          "text_position": "left",
+          "text_align": "left",
+          "caption_content_background": "original",
+          "mobile_image": "shopify://shop_images/banner-mobile-final.jpg",
+          "mobile_text_below_image": false,
+          "mobile_text_color": "#3349b5",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "1489285524898": {
+        "type": "testimonial",
+        "disabled": true,
+        "blocks": {
+          "1489285524898-0": {
+            "type": "image",
+            "settings": {
+              "title": "Sleeping Easy",
+              "testimonial": "<p>I love taking the Calm oil with hot coco before bed. I feel so calm and at ease which has helped immensely with my sleeping issues. </p>",
+              "name": "",
+              "store_name": "",
+              "link": "",
+              "text_position": "center",
+              "text_align": "center",
+              "image": "shopify://shop_images/testimonials-bg-1.jpg",
+              "caption_content_background": "darken_bg"
+            }
+          },
+          "1489285524898-2": {
+            "type": "image",
+            "settings": {
+              "title": "Feelin' Good",
+              "testimonial": "<p>CBD has helped improve my mood and make me an overall happier person. I no longer get overwhelmed or stressed out about the little things.</p>",
+              "name": "",
+              "store_name": "",
+              "link": "",
+              "text_position": "center",
+              "text_align": "center",
+              "image": "shopify://shop_images/testimonials-bg-3.jpg",
+              "caption_content_background": "darken_bg"
+            }
+          },
+          "1489285524898-1": {
+            "type": "image",
+            "settings": {
+              "title": "After Exercise",
+              "testimonial": "<p>I&#x27;ve been using the calm balm on my joints after a workout to help prevent any discomfort. It works like a charm! </p>",
+              "name": "",
+              "store_name": "",
+              "link": "",
+              "text_position": "center",
+              "text_align": "center",
+              "image": "shopify://shop_images/testimonials-bg-2.jpg",
+              "caption_content_background": "darken_bg"
+            }
+          }
+        },
+        "block_order": [
+          "1489285524898-0",
+          "1489285524898-2",
+          "1489285524898-1"
+        ],
+        "settings": {
+          "wide_display": true,
+          "testimonial_text_animation": "fadeIn",
+          "testimonial_speed": 12,
+          "activate_adaptiveHeight": false,
+          "mobile_text_below_image": false,
+          "mobile_text_color": "",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "1573135030425": {
+        "type": "image-text",
+        "blocks": {
+          "1573135030425-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/collection-cbd-group.jpg",
+              "title": "Quality Cannabinoid for Everyday Relaxation",
+              "text": "<p>Look no further because we only believe in the good stuff.</p>",
+              "button_label": "Shop All CBD",
+              "link": "shopify://collections/cbd",
+              "bg_color": "",
+              "text_color": "#3349b5"
+            }
+          },
+          "1580891957365": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/collection-cover-indica.jpg",
+              "title": "Did you know not all CBD is created equal?",
+              "text": "<p>Isolate vs. full-spectrum. Discover what's optimal for you!</p>",
+              "button_label": "Shop CBD Teas",
+              "link": "shopify://collections/cbd",
+              "bg_color": "",
+              "text_color": "#3349b5"
+            }
+          }
+        },
+        "block_order": [
+          "1573135030425-0",
+          "1580891957365"
+        ],
+        "settings": {
+          "wide_display": true,
+          "featured_links_per_row": "1",
+          "frontpage_text_align": "left",
+          "frontpage_image_position": "row-reverse",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "blocks": {
+          "1580884106889": {
+            "type": "filter",
+            "settings": {
+              "filter_name": "Filter",
+              "filter_tags": "New, CBD, THC, Oil, Tea, Softgels, Calm Balms, Skin Balms, Merchandise",
+              "enable_filter_swatches": false
+            }
+          },
+          "1581708441339": {
+            "type": "filter_by_collection",
+            "settings": {}
+          }
+        },
+        "block_order": [
+          "1580884106889",
+          "1581708441339"
+        ],
+        "settings": {
+          "featured_collection_image": false,
+          "wide_display": true,
+          "caption_content_background": "original",
+          "display_collection_title": true,
+          "collection_breadcrumb": false,
+          "collection_tags": false,
+          "collection_sort": false,
+          "products_per_row": 2,
+          "pagination_limit": 16,
+          "toggle": false
+        }
+      },
+      "newsletter": {
+        "type": "newsletter",
+        "settings": {
+          "wide_display": true,
+          "display_first_name": false,
+          "display_last_name": false,
+          "newsletter_title": "Sign up today",
+          "newsletter_text": "<p>Stay in the know, and receive 10% OFF your next <strong>Chicago</strong> purchase!</p>",
+          "newsletter_section_text_align": "center",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "search-template": {
+        "type": "search-template",
+        "settings": {
+          "image": "",
+          "search_breadcrumb": true,
+          "search_term": "Search...",
+          "products_per_row": 3,
+          "pagination_limit": 48,
+          "blog_author": false,
+          "read_more_link": true,
+          "blog_date": true,
+          "toggle": false
+        }
+      },
+      "1576651645486": {
+        "type": "featured-promotions",
+        "blocks": {
+          "1576651645486-2": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "image": "shopify://shop_images/pexels-anna-shvets-5325637_78f724ce-c26f-4892-8564-ce8c7dc9e2b1.jpg",
+              "link": "shopify://collections/merchandise",
+              "title": "Merch",
+              "text": "<p>Get comfortable both inside & out.</p>",
+              "button_label": ""
+            }
+          },
+          "1576651645486-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/pexels-anna-shvets-3683036_7554e978-40d8-42b8-a9f5-f54ab60ae7d5.jpg",
+              "link": "shopify://collections/capsules",
+              "title": "CBD Tablets",
+              "text": "<p>Accurate dosage, easily digestible, and relaxing. </p>",
+              "button_label": ""
+            }
+          },
+          "1576651645486-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/pexels-shiny-diamond-3762870_1f32114c-75cd-4ccf-9d0a-3923477f2277.jpg",
+              "link": "shopify://collections/calm-balms",
+              "title": "Calm Balms",
+              "text": "<p>Quickly nourish and relieve your irritated skin.</p>",
+              "button_label": ""
+            }
+          }
+        },
+        "block_order": [
+          "1576651645486-2",
+          "1576651645486-1",
+          "1576651645486-0"
+        ],
+        "settings": {
+          "wide_display": true,
+          "promo_text_on_image_enabled": true,
+          "featured_promos_per_row": 2,
+          "featured_links_animation": "fadeInDown",
+          "feature_style": "square",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "mega-menu-1": {
+        "type": "mega-menu-1",
+        "blocks": {
+          "mega-menu-1-1": {
+            "type": "column",
+            "settings": {
+              "richtext_top": "",
+              "image_caption_top": "",
+              "image_link_top": "",
+              "menu_1": "dried-flower",
+              "menu_1_link": "shopify://collections/tea",
+              "menu_2": "",
+              "menu_2_link": "",
+              "menu_3": "",
+              "menu_3_link": "",
+              "menu_4": "",
+              "menu_4_link": "",
+              "image_bottom": "shopify://shop_images/mango-tango-2.jpg",
+              "image_caption_bottom": "",
+              "image_link_bottom": "shopify://collections/tea",
+              "richtext_bottom": ""
+            }
+          },
+          "mega-menu-1-2": {
+            "type": "column",
+            "settings": {
+              "richtext_top": "",
+              "image_caption_top": "",
+              "image_link_top": "",
+              "menu_1": "oils",
+              "menu_1_link": "shopify://collections/oils",
+              "menu_2": "",
+              "menu_2_link": "",
+              "menu_3": "",
+              "menu_3_link": "",
+              "menu_4": "",
+              "menu_4_link": "",
+              "image_bottom": "shopify://shop_images/oil-bubblegum-2.jpg",
+              "image_caption_bottom": "",
+              "image_link_bottom": "shopify://collections/oils",
+              "richtext_bottom": ""
+            }
+          },
+          "mega-menu-1-3": {
+            "type": "column",
+            "settings": {
+              "richtext_top": "",
+              "image_caption_top": "",
+              "image_link_top": "",
+              "menu_1": "capsules",
+              "menu_1_link": "shopify://collections/capsules",
+              "menu_2": "",
+              "menu_2_link": "",
+              "menu_3": "",
+              "menu_3_link": "",
+              "menu_4": "",
+              "menu_4_link": "",
+              "image_bottom": "shopify://shop_images/northern-lights-softgels-2.jpg",
+              "image_caption_bottom": "",
+              "image_link_bottom": "shopify://collections/capsules",
+              "richtext_bottom": ""
+            }
+          },
+          "mega-menu-1-4": {
+            "type": "column",
+            "settings": {
+              "richtext_top": "",
+              "image_caption_top": "",
+              "image_link_top": "",
+              "menu_1": "balms",
+              "menu_1_link": "shopify://collections/calm-balms",
+              "menu_2": "",
+              "menu_2_link": "",
+              "menu_3": "",
+              "menu_3_link": "",
+              "menu_4": "",
+              "menu_4_link": "",
+              "image_bottom": "shopify://shop_images/lip-balm-blue-dream-2.jpg",
+              "image_caption_bottom": "",
+              "image_link_bottom": "shopify://collections/calm-balms",
+              "richtext_bottom": ""
+            }
+          },
+          "mega-menu-1-0": {
+            "type": "column",
+            "disabled": true,
+            "settings": {
+              "richtext_top": "",
+              "image_caption_top": "",
+              "image_link_top": "",
+              "menu_1": "merchandise",
+              "menu_1_link": "shopify://collections/merchandise",
+              "menu_2": "",
+              "menu_2_link": "",
+              "menu_3": "",
+              "menu_3_link": "",
+              "menu_4": "",
+              "menu_4_link": "",
+              "image_bottom": "shopify://shop_images/chicago-sweater.jpg",
+              "image_caption_bottom": "",
+              "image_link_bottom": "shopify://collections/merchandise",
+              "richtext_bottom": ""
+            }
+          }
+        },
+        "block_order": [
+          "mega-menu-1-1",
+          "mega-menu-1-2",
+          "mega-menu-1-3",
+          "mega-menu-1-4",
+          "mega-menu-1-0"
+        ],
+        "settings": {
+          "parent": "shop"
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "product_breadcrumb": false,
+          "set_product_height": false,
+          "product_height": 500,
+          "video_looping": false,
+          "product_thumbs": false,
+          "gallery_arrows": true,
+          "enable_product_lightbox": true,
+          "activate_zoom": true,
+          "slideshow_speed": 0,
+          "slideshow_animation": "fade",
+          "thumbnail_position": "bottom-slider",
+          "enable_thumbnail_slider": true
+        }
+      },
+      "product-recommendations": {
+        "type": "product-recommendations",
+        "settings": {
+          "show_product_recommendations": true,
+          "product_recommendations_style": "grid",
+          "product_recommendations_heading": "Discover more products",
+          "products_per_row": 2,
+          "recommended_products_limit": 2
+        }
+      },
+      "1580680772336": {
+        "type": "featured-blog",
+        "disabled": true,
+        "settings": {
+          "title": "Higher Education",
+          "blog_widget_select": "higher-education",
+          "home_page_articles": 2,
+          "blog_tags": false,
+          "blog_author": false,
+          "read_time": true,
+          "blog_date": true,
+          "blog_comment_count": false,
+          "read_more_link": false,
+          "excerpt_display": "full_excerpt",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "page-details-template": {
+        "type": "page-details-template",
+        "blocks": {
+          "1581056540586": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 30,
+              "divider_border": false
+            }
+          },
+          "1580680888954": {
+            "type": "image_with_text",
+            "settings": {
+              "wide_display": false,
+              "frontpage_text_align": "left",
+              "frontpage_image_position": "row-reverse",
+              "image": "shopify://shop_images/who-we-are-1.jpg",
+              "title": "We're here to help.",
+              "text": "<p>We are a mindful collective with a focus on healing and wellness, looking to help people return to their authentic self. With our products, you can soothe your soul – and your joints!</p>",
+              "link": "",
+              "button_label": ""
+            }
+          },
+          "page-details-template-11": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 10,
+              "divider_border": false
+            }
+          },
+          "1580681859272": {
+            "type": "image_gallery",
+            "settings": {
+              "wide_display": true,
+              "detail_image_1": "shopify://shop_images/who-we-are-2.jpg",
+              "detail_image_2": "shopify://shop_images/who-we-are-3.jpg",
+              "detail_image_3": "shopify://shop_images/who-we-are-4.jpg"
+            }
+          },
+          "1581058529733": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 30,
+              "divider_border": false
+            }
+          },
+          "1580681883908": {
+            "type": "image_with_text",
+            "settings": {
+              "wide_display": false,
+              "frontpage_text_align": "left",
+              "frontpage_image_position": "row",
+              "image": "shopify://shop_images/who-we-are-5.jpg",
+              "title": "Something for everyone.",
+              "text": "<p>We believe that our products help people and that they can have a positive impact on your every day life.</p>",
+              "link": "shopify://collections/all",
+              "button_label": "View all"
+            }
+          },
+          "1580681916537": {
+            "type": "image_with_text",
+            "settings": {
+              "wide_display": false,
+              "frontpage_text_align": "left",
+              "frontpage_image_position": "row-reverse",
+              "image": "shopify://shop_images/who-we-are-6.jpg",
+              "title": "Our effective approach.",
+              "text": "<p>Not all cannabinoid products are created the same. We meticulously source our ingredients and are committed to bringing you only the very best.</p>",
+              "link": "shopify://blogs/higher-education",
+              "button_label": "Learn more"
+            }
+          },
+          "1580682059740": {
+            "type": "image_with_text_overlay",
+            "settings": {
+              "wide_display": true,
+              "image": "shopify://shop_images/about-banner.jpg",
+              "pretext": "",
+              "title": "Feel the difference",
+              "subtitle": "<p><strong>Your body & mind will surely thank you later.</strong></p>",
+              "button1": "Explore CBD",
+              "button1_link": "shopify://collections/calm-balms",
+              "button1_style": "global-button--banner-highlighted",
+              "button2": "",
+              "button2_link": "",
+              "button2_style": "global-button--banner",
+              "text_position": "left",
+              "text_align": "left",
+              "caption_content_background": "original",
+              "mobile_text_below_image": true,
+              "mobile_text_color": ""
+            }
+          }
+        },
+        "block_order": [
+          "1581056540586",
+          "1580680888954",
+          "page-details-template-11",
+          "1580681859272",
+          "1581058529733",
+          "1580681883908",
+          "1580681916537",
+          "1580682059740"
+        ],
+        "settings": {}
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "settings": {
+          "image": "",
+          "collection_breadcrumb": true,
+          "display_collection_title": false,
+          "align_height": false,
+          "collection_height": 200,
+          "collections_per_row": 3,
+          "pagination_limit": 18,
+          "toggle": false
+        }
+      },
+      "page-faq-template": {
+        "type": "page-faq-template",
+        "blocks": {
+          "page-faq-template-0": {
+            "type": "heading",
+            "settings": {
+              "heading": "Our Products"
+            }
+          },
+          "page-faq-template-1": {
+            "type": "Content",
+            "settings": {
+              "title": "What's the difference between THC and CBD?",
+              "subtitle": "<p>THC and CBD are both natural compounds found in Cannabis however, THC is the psychoactive which gives you the feeling of being&nbsp;<em>high,&nbsp;</em>while CBD does not contain the same psychoactive effects.&nbsp;</p>"
+            }
+          },
+          "page-faq-template-2": {
+            "type": "Content",
+            "settings": {
+              "title": "Does CBD help with health issues?",
+              "subtitle": "<p>Many people use both CBD and THC to help with various health conditions. These conditions include pain relief, seizures, inflammation, anxiety and depression.&nbsp;</p>\n<p></p>\n<p>However, these products are not intended to diagnose, prevent, treat, or cure any disease.</p>"
+            }
+          },
+          "page-faq-template-3": {
+            "type": "Content",
+            "settings": {
+              "title": "Can I use CBD in recipes?",
+              "subtitle": "<p>Sure!&nbsp;It is very common to consume CBD by ingesting edibles or adding oils into your own recipes.&nbsp;</p>"
+            }
+          },
+          "page-faq-template-4": {
+            "type": "heading",
+            "settings": {
+              "heading": "Orders"
+            }
+          },
+          "page-faq-template-5": {
+            "type": "Content",
+            "settings": {
+              "title": "How long will it take to receive my order?",
+              "subtitle": "<p>For orders in Canada,&nbsp;you should receive your&nbsp;items within 1 - 3 business days. For orders in the U.S, you should receive your items within 10 business days.</p>"
+            }
+          },
+          "page-faq-template-6": {
+            "type": "Content",
+            "settings": {
+              "title": "How can I keep my products fresh?",
+              "subtitle": "<p>To keep your products fresh and potent, store them in a dark, dry place and in an airtight container.</p>"
+            }
+          },
+          "page-faq-template-7": {
+            "type": "Content",
+            "settings": {
+              "title": "Do you offer refunds?",
+              "subtitle": "<p>No, unfortunately due to the nature of our products, we do not offer refunds.</p>"
+            }
+          }
+        },
+        "block_order": [
+          "page-faq-template-0",
+          "page-faq-template-1",
+          "page-faq-template-2",
+          "page-faq-template-3",
+          "page-faq-template-4",
+          "page-faq-template-5",
+          "page-faq-template-6",
+          "page-faq-template-7"
+        ],
+        "settings": {
+          "wide_display": true,
+          "show_banner": true,
+          "image": "shopify://shop_images/banner-final.jpg",
+          "mobile_image": "shopify://shop_images/banner-mobile-final.jpg",
+          "caption_content_background": "translucent_text_box",
+          "pretext": "",
+          "title": "Frequently Asked Questions",
+          "subtitle": "",
+          "text_position": "left",
+          "text_align": "left",
+          "button1": "",
+          "button1_link": "",
+          "button1_style": "global-button--banner",
+          "button2": "",
+          "button2_link": "",
+          "button2_style": "global-button--banner"
+        }
+      },
+      "1580913831658": {
+        "type": "divider",
+        "settings": {
+          "divider_spacing": 25,
+          "divider_border": false,
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "1580913856216": {
+        "type": "divider",
+        "settings": {
+          "divider_spacing": 20,
+          "divider_border": false,
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "blog-template": {
+        "type": "blog-template",
+        "settings": {
+          "wide_display": true,
+          "subtitle": "",
+          "caption_content_background": "original",
+          "blog_posts_per_row": 2,
+          "blog_posts_per_page": 6,
+          "blog_tags": true,
+          "blog_author": false,
+          "read_time": true,
+          "blog_date": true,
+          "blog_comment_count": false,
+          "read_more_link": false,
+          "excerpt_display": "full_excerpt",
+          "toggle": false
+        }
+      },
+      "article-template": {
+        "type": "article-template",
+        "settings": {
+          "featured_image": "none",
+          "wide_display": true,
+          "caption_content_background": "original",
+          "blog_breadcrumb": true,
+          "blog_pagination": true,
+          "blog_tags": false,
+          "blog_byline": false,
+          "read_time": true,
+          "blog_date": true,
+          "blog_author": false,
+          "display_social_buttons": true,
+          "blog_comment_count": true,
+          "blog_additional_posts": false,
+          "read_more_link": true,
+          "toggle": false
+        }
+      },
+      "contact-template": {
+        "type": "contact-template",
+        "settings": {
+          "wide_display": true,
+          "image": "",
+          "contact_text": "",
+          "show_map": false,
+          "map_address": "",
+          "map_height": 400,
+          "zoom_level": 16,
+          "map_image": "",
+          "api_key": "",
+          "show_pin": true,
+          "map_style": "default"
+        }
+      },
+      "map": {
+        "type": "map",
+        "settings": {
+          "map_wide_display": true,
+          "map_address": "Chicago",
+          "map_height": 400,
+          "zoom_level": 10,
+          "api_key": "",
+          "show_pin": true,
+          "map_style": "default",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "cart-template": {
+        "type": "cart-template",
+        "settings": {
+          "display_special_instructions": false,
+          "display_savings": true,
+          "cart_message": ""
+        }
+      },
+      "page-details-template-2": {
+        "type": "page-details-template-2",
+        "blocks": {
+          "page-details-template-2-0": {
+            "type": "image_with_text_overlay",
+            "settings": {
+              "wide_display": true,
+              "image": "shopify://shop_images/testimonials-bg-1.jpg",
+              "pretext": "",
+              "title": "Turbo Shopify Theme",
+              "subtitle": "<p>Uplift &amp; refresh your shop</p>",
+              "button1": "Get started",
+              "button1_link": "https://outofthesandbox.com/collections/turbo-theme/products/turbo-theme-chicago",
+              "button1_style": "global-button--banner-highlighted",
+              "button2": "",
+              "button2_link": "",
+              "button2_style": "global-button--banner",
+              "text_position": "center",
+              "text_align": "center",
+              "caption_content_background": "darken_bg",
+              "mobile_text_below_image": false,
+              "mobile_text_color": ""
+            }
+          },
+          "page-details-template-2-1": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 20,
+              "divider_border": false
+            }
+          },
+          "page-details-template-2-2": {
+            "type": "rich_text_and_image",
+            "settings": {
+              "title": "Built for speed. Styled with love.",
+              "content": "<p>Turbo is a highly configurable, blazing fast theme that has been optimized for both speed and mobile experience. Turbo fully supports sections and is packed with features like product row sliders, mega menus, testimonials, homepage image gallery, FAQ template, interactive mini cart, team page template, and infinite scrolling. It also boasts features like instantaneous page transitions for ultra-fast navigation and two separate speed modes.</p>",
+              "button_label": "",
+              "button_link": "",
+              "text_size": "featured_text",
+              "text_alignment": "center"
+            }
+          },
+          "page-details-template-2-3": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 10,
+              "divider_border": false
+            }
+          },
+          "page-details-template-2-7": {
+            "type": "image_with_text",
+            "settings": {
+              "wide_display": false,
+              "frontpage_text_align": "left",
+              "frontpage_image_position": "row",
+              "image": "shopify://shop_images/chicago-sweater.jpg",
+              "title": "Velocity, refined.",
+              "text": "<p>Turbo is a fully-loaded theme that can easily accommodate high volume, large catalog shops and especially <strong>Shopify Plus</strong> merchants. But it&#x27;s also an excellent choice for any size shop that&#x27;s looking for an edge - one that won&#x27;t sacrifice style and flexibility for enhanced performance.</p>",
+              "link": "https://outofthesandbox.com/collections/turbo-theme/products/turbo-theme-chicago",
+              "button_label": "Purchase theme"
+            }
+          },
+          "page-details-template-2-9": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 10,
+              "divider_border": false
+            }
+          },
+          "page-details-template-2-18": {
+            "type": "quote",
+            "settings": {
+              "page_quote": "<p>40% of online shoppers abandon a site that takes more than 3 seconds to load</p>"
+            }
+          },
+          "page-details-template-2-19": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 20,
+              "divider_border": false
+            }
+          },
+          "1581015470019": {
+            "type": "image_with_text_overlay",
+            "settings": {
+              "wide_display": true,
+              "image": "shopify://shop_images/banner-faq.jpg",
+              "pretext": "",
+              "title": "Dynamic & packed with features",
+              "subtitle": "",
+              "button1": "View shops using Turbo",
+              "button1_link": "https://help.outofthesandbox.com/hc/en-us/articles/115006912387",
+              "button1_style": "global-button--banner",
+              "button2": "",
+              "button2_link": "",
+              "button2_style": "global-button--banner",
+              "text_position": "left",
+              "text_align": "left",
+              "caption_content_background": "original",
+              "mobile_text_below_image": true,
+              "mobile_text_color": ""
+            }
+          },
+          "1581015524769": {
+            "type": "page",
+            "settings": {
+              "content_page": "turbo-styles"
+            }
+          },
+          "1581017316726": {
+            "type": "page",
+            "settings": {
+              "content_page": "turbo-features-list"
+            }
+          },
+          "1581015534964": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 0,
+              "divider_border": false
+            }
+          },
+          "1581015537960": {
+            "type": "rich_text_and_image",
+            "settings": {
+              "title": "Turbo Theme Support",
+              "content": "<p>Our comprehensive <a href=\"https://help.outofthesandbox.com/hc/en-us\">Theme Help Center</a> is where you&#x27;ll find extensive documentation and video guides for all our themes, including <a href=\"https://help.outofthesandbox.com/hc/en-us/categories/115001109307-Turbo-Shopify-Theme\">Turbo Support Articles.</a> Updating your theme is also quick and easy, using our unique <a href=\"https://outofthesandbox.com/pages/theme-updater-app\">Shopify Theme Updater App</a>!</p>",
+              "button_label": "Get Support",
+              "button_link": "https://help.outofthesandbox.com/hc/en-us",
+              "text_size": "featured_text",
+              "text_alignment": "center"
+            }
+          },
+          "1581015543567": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 20,
+              "divider_border": false
+            }
+          }
+        },
+        "block_order": [
+          "page-details-template-2-0",
+          "page-details-template-2-1",
+          "page-details-template-2-2",
+          "page-details-template-2-3",
+          "page-details-template-2-7",
+          "page-details-template-2-9",
+          "page-details-template-2-18",
+          "page-details-template-2-19",
+          "1581015470019",
+          "1581015524769",
+          "1581017316726",
+          "1581015534964",
+          "1581015537960",
+          "1581015543567"
+        ],
+        "settings": {}
+      },
+      "product-details-template": {
+        "type": "product-details-template",
+        "blocks": {
+          "1581044001669": {
+            "type": "image_with_text",
+            "settings": {
+              "wide_display": false,
+              "frontpage_text_align": "left",
+              "frontpage_image_position": "row-reverse",
+              "image": "shopify://shop_images/product-details-1.jpg",
+              "title": "Benefits",
+              "text": "<p>Uplight &amp; ease your mind. Our CBD infused teas reduce anxiety, stress and help your feel calm – without any psychoactive effects.</p><p></p><p><strong>DOSAGE<br/></strong>Scoop 1/2 to 1 tsp and add it to 2 cups of hot water. </p><p><strong>INGREDIENTS</strong></p><p>• 10mg natural hemp extract 🌿<br/>• Blend of lavender, strawberry and peppermint</p>",
+              "link": "",
+              "button_label": ""
+            }
+          },
+          "1581043921765": {
+            "type": "product_reviews",
+            "settings": {}
+          },
+          "1581045545854": {
+            "type": "featured_video",
+            "settings": {
+              "wide_display": true,
+              "aspect_ratio": "16:9",
+              "autoplay": false,
+              "autoloop": true,
+              "mute_video": false,
+              "show_controls": true,
+              "video_dark_overlay": true,
+              "iframe_video": "https://www.youtube.com/watch?v=k9Zt0eKP8Rw",
+              "html5_video": "",
+              "image": "shopify://shop_images/video-drink-day.jpg",
+              "display_text_over_video": false,
+              "preheading": "<p>Get the rest your body needs</p>",
+              "heading": "Rejuvenate and wake up refreshed",
+              "subheading": "",
+              "button1_label": "Play video",
+              "button1_link": "",
+              "button1_style": "global-button--banner-highlighted",
+              "button2_label": "",
+              "button2_link": "",
+              "button2_style": "global-button--banner",
+              "text_position": "center",
+              "text_align": "center",
+              "caption_content_background": "original",
+              "mobile_text_below_image": false,
+              "mobile_text_color": ""
+            }
+          },
+          "e317500a-6a0d-4ead-9d31-b460b68140ff": {
+            "type": "recommended_products",
+            "settings": {}
+          }
+        },
+        "block_order": [
+          "1581044001669",
+          "1581043921765",
+          "1581045545854",
+          "e317500a-6a0d-4ead-9d31-b460b68140ff"
+        ],
+        "settings": {
+          "product_thumbs": true,
+          "gallery_arrows": true,
+          "enable_product_lightbox": true,
+          "activate_zoom": false,
+          "slideshow_speed": 0,
+          "slideshow_animation": "slide",
+          "thumbnail_position": "bottom",
+          "enable_thumbnail_slider": true,
+          "display_vendor": false,
+          "product_breadcrumb": false,
+          "display_sku": false,
+          "display_collections": false,
+          "display_type": false,
+          "display_tags": false,
+          "display_social_buttons": false,
+          "product_description_position": "top",
+          "display_savings": true,
+          "show_payment_button": true,
+          "product_images_position": "left",
+          "set_product_height": false,
+          "product_height": 500,
+          "video_looping": false,
+          "enable_shopify_product_badges": false,
+          "enable_reviews_in_description": false
+        }
+      },
+      "password-template": {
+        "type": "password-template",
+        "settings": {
+          "custom_logo": "shopify://shop_images/chicago-logo-2020_white.png",
+          "logo_width": 150,
+          "custom_pagework_page_bg": true,
+          "password-page-background": "shopify://shop_images/banner-password.jpg",
+          "pagework_page_bg_stretched": true,
+          "password_message": "",
+          "show_newsletter": true,
+          "password_text": "",
+          "social_media": true
+        }
+      },
+      "contact-custom-template": {
+        "type": "contact-custom-template",
+        "blocks": {
+          "contact-custom-template-0": {
+            "type": "richtext",
+            "settings": {
+              "label": "",
+              "placeholder": "Name",
+              "required": true,
+              "field_type": "text"
+            }
+          },
+          "contact-custom-template-1": {
+            "type": "richtext",
+            "settings": {
+              "label": "",
+              "placeholder": "Email",
+              "required": true,
+              "field_type": "email"
+            }
+          },
+          "contact-custom-template-2": {
+            "type": "richtext",
+            "settings": {
+              "label": "",
+              "placeholder": "Message",
+              "required": true,
+              "field_type": "textarea"
+            }
+          }
+        },
+        "block_order": [
+          "contact-custom-template-0",
+          "contact-custom-template-1",
+          "contact-custom-template-2"
+        ],
+        "settings": {
+          "wide_display": true,
+          "contact_heading": "Get in touch",
+          "subtitle": "Subheading",
+          "contact_subheading": "Contact Us Today!",
+          "contact_content": "<p>Customize your contact form to suit your business! Add custom fields like a dropdown menu, checkbox, text fields and more, so that you can gather pertinent info from shoppers right from the get-go, to help answer their inquiries more effectively.</p>",
+          "contact_text_position": "left",
+          "contact_text_alignment": "left",
+          "contact_social_buttons": false
+        }
+      },
+      "1626280311a4a9e9ef": {
+        "type": "featured-collection",
+        "settings": {
+          "title": "",
+          "collection_description": true,
+          "collection": "new",
+          "collection_style": "grid",
+          "products_per": 3,
+          "products_limit": 6,
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "1626290220ff2af935": {
+        "type": "image-with-text-overlay",
+        "disabled": true,
+        "settings": {
+          "wide_display": true,
+          "pretext": "",
+          "title": "Demystifying cannabis health benefits",
+          "subtitle": "<p>Many people use CBD for pain relief, and to reduce stress and anxiety as there are a lot of healing properties</p>",
+          "button1": "Learn More",
+          "button1_link": "shopify://blogs/higher-education/demystifying-cannabis-health-benefits",
+          "button1_style": "global-button--banner",
+          "button2": "",
+          "button2_link": "",
+          "button2_style": "global-button--banner",
+          "text_position": "center",
+          "text_align": "center",
+          "caption_content_background": "original",
+          "mobile_text_below_image": true,
+          "mobile_text_color": "",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "16262904283b0d7841": {
+        "type": "newsletter",
+        "settings": {
+          "wide_display": true,
+          "display_first_name": false,
+          "display_last_name": false,
+          "newsletter_title": "Get 15% off your first order!",
+          "newsletter_text": "",
+          "newsletter_section_text_align": "center",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "162629135393ac2781": {
+        "type": "text-columns-with-images",
+        "blocks": {
+          "162629135393ac2781-0": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify://shop_images/banner-2.jpg",
+              "title": "CBD Beverages",
+              "heading_size": "regular_text",
+              "text": "<p>Infusing CBD in delicious beverages is truly the way to go! You can cool down with a nice drink while going into full relaxation mode.</p>",
+              "button_label": "Read more",
+              "button_link": "shopify://blogs/higher-education/cbd-infused-beverages",
+              "align_text": "left",
+              "border_style": "none"
+            }
+          },
+          "89905fd5-e19c-470d-9b4f-df4d2b556561": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify://shop_images/pexels-anna-shvets-4587979_6232050f-5927-4ad5-b3f6-419efe27acbd.jpg",
+              "title": "Is CBD Safe for Pets?",
+              "heading_size": "regular_text",
+              "text": "<p>Our company always recommends talking to your veterinarian before prescribing your pets a new medicine. We want our pets to be safe!</p>",
+              "button_label": "Read more",
+              "button_link": "shopify://blogs/higher-education/is-cbd-safe-for-your-pets",
+              "align_text": "left",
+              "border_style": "none"
+            }
+          },
+          "162629135393ac2781-1": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify://shop_images/pexels-cottonbro-4972598.jpg",
+              "title": "Change Your Mood",
+              "heading_size": "regular_text",
+              "text": "<p>It's no secret that CBD has been a major game changer for those with anxiety. In this article, we dive into what CBD can do for you!</p>",
+              "button_label": "Read more",
+              "button_link": "shopify://blogs/higher-education/how-cbd-impacts-my-mood",
+              "align_text": "left",
+              "border_style": "none"
+            }
+          }
+        },
+        "block_order": [
+          "162629135393ac2781-0",
+          "89905fd5-e19c-470d-9b4f-df4d2b556561",
+          "162629135393ac2781-1"
+        ],
+        "settings": {
+          "title": "",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "16262913590b01e081": {
+        "type": "divider",
+        "settings": {
+          "divider_spacing": 20,
+          "divider_border": false,
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "16262928183c2120a8": {
+        "type": "divider",
+        "settings": {
+          "divider_spacing": 25,
+          "divider_border": false,
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "product-sidebar": {
+        "type": "product-sidebar",
+        "settings": {
+          "toggle": false
+        }
+      }
+    },
+    "content_for_index": [
+      "1489283389016",
+      "16262928183c2120a8",
+      "1626280311a4a9e9ef",
+      "1580913856216",
+      "1576651645486",
+      "1626290220ff2af935",
+      "1573135030425",
+      "1580680772336",
+      "1580913831658",
+      "162629135393ac2781",
+      "16262913590b01e081",
+      "1489285524898",
+      "16262904283b0d7841"
+    ]
+  }
+}
